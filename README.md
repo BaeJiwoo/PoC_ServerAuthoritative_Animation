@@ -2,7 +2,7 @@
 
 Unity 클라이언트는 **WASD 입력만 서버로 전송**하고, .NET 서버가 캐릭터 이동·전체 본 포즈·히트박스를 계산해 스냅샷으로 돌려주는 서버 권위 애니메이션 POC입니다.
 
-![Unity 실행 화면: Bob 캐릭터와 서버 히트박스](docs/images/demo.png)
+![Unity 실행 화면: Bob 걷기 애니메이션과 서버 히트박스](docs/images/demo.gif)
 
 `StickManFight`의 Bob 캐릭터와 실제 Mixamo 걷기 FBX를 사용합니다.
 Unity 에디터가 FBX를 오프라인으로 샘플링하면, .NET 서버가 전체 본 포즈와 부위별 히트박스를 계산합니다.
