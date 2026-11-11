@@ -1,0 +1,24 @@
+{
+  "name": "ServerAuthoritativeAnimation.Client.Tests",
+  "rootNamespace": "ServerAuthoritativeAnimation.Client.Tests",
+  "references": [
+    "ServerAuthoritativeAnimation.Client"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [
+    "UNITY_INCLUDE_TESTS"
+  ],
+  "versionDefines": [],
+  "noEngineReferences": false,
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}
+

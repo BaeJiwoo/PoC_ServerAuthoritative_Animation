@@ -1,0 +1,22 @@
+{
+  "name": "ServerAuthoritativeAnimation.Client.PlayModeTests",
+  "rootNamespace": "ServerAuthoritativeAnimation.Client.PlayModeTests",
+  "references": [
+    "ServerAuthoritativeAnimation.Client"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [
+    "UNITY_INCLUDE_TESTS"
+  ],
+  "versionDefines": [],
+  "noEngineReferences": false,
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}
+

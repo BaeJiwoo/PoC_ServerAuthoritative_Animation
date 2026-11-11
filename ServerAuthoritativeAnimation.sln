@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerAuthoritativeAnimation.Core", "src\ServerAuthoritativeAnimation.Core\ServerAuthoritativeAnimation.Core.csproj", "{A7D660D7-FB0D-495B-BD09-D5B301A046BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerAuthoritativeAnimation.Server", "src\ServerAuthoritativeAnimation.Server\ServerAuthoritativeAnimation.Server.csproj", "{B89A0714-C205-4CA6-942B-37A85CB1AF01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerAuthoritativeAnimation.Core.Tests", "tests\ServerAuthoritativeAnimation.Core.Tests\ServerAuthoritativeAnimation.Core.Tests.csproj", "{5DC47DD1-A714-4997-A977-8A9DF643C643}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7D660D7-FB0D-495B-BD09-D5B301A046BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7D660D7-FB0D-495B-BD09-D5B301A046BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7D660D7-FB0D-495B-BD09-D5B301A046BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7D660D7-FB0D-495B-BD09-D5B301A046BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B89A0714-C205-4CA6-942B-37A85CB1AF01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B89A0714-C205-4CA6-942B-37A85CB1AF01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B89A0714-C205-4CA6-942B-37A85CB1AF01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B89A0714-C205-4CA6-942B-37A85CB1AF01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DC47DD1-A714-4997-A977-8A9DF643C643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DC47DD1-A714-4997-A977-8A9DF643C643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DC47DD1-A714-4997-A977-8A9DF643C643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DC47DD1-A714-4997-A977-8A9DF643C643}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

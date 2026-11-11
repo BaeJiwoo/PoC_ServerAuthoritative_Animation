@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <ItemGroup>
+    <ProjectReference Include="..\ServerAuthoritativeAnimation.Core\ServerAuthoritativeAnimation.Core.csproj" />
+    <Content Include="../../assets/animations/BobWalkForward.json" Link="Animations/BobWalkForward.json"
+             CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" />
+  </ItemGroup>
+</Project>

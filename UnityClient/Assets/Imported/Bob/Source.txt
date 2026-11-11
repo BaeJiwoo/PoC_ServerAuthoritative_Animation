@@ -1,0 +1,8 @@
+Copied without changes from the user's StickManFight Unity project:
+Assets/Game/Characters/Bob/Models/Bob_Rigged.fbx (+ importer metadata)
+Assets/Game/Characters/Bob/Animations/Bob_Walk_Forward.fbx (+ importer metadata)
+
+Original project: /home/jiwoo-bae/Projects/StickManFight
+Only the Bob model and forward walking FBX are used by this POC.
+Preserves the source Humanoid avatar and clip import settings, including yaw correction.
+Original assets retain their original ownership and license; no new license is granted here.

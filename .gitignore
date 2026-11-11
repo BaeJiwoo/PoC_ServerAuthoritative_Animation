@@ -1,0 +1,42 @@
+# .NET
+**/bin/
+**/obj/
+**/TestResults/
+artifacts/
+*.nupkg
+*.snupkg
+*.user
+*.suo
+*.userprefs
+
+# Unity generated content
+/UnityClient/[Ll]ibrary/
+/UnityClient/[Tt]emp/
+/UnityClient/[Oo]bj/
+/UnityClient/[Ll]ogs/
+/UnityClient/[Uu]ser[Ss]ettings/
+/UnityClient/[Mm]emoryCaptures/
+/UnityClient/[Rr]ecordings/
+/UnityClient/[Bb]uild/
+/UnityClient/[Bb]uilds/
+*.unitypackage
+sysinfo.txt
+
+# IDE and OS files
+.idea/
+.vscode/
+.vs/
+*.csproj.DotSettings.user
+.DS_Store
+Thumbs.db
+
+# Local environment and runtime files
+.env
+.env.*
+!.env.example
+*.log
+*.pid
+*.tmp
+mono_crash.*
+crash.dmp
+crashlytics-build.properties
